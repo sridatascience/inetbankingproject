@@ -1,2 +1,0 @@
-# inetbankingproject
-Inetbankingprojectforselenium
